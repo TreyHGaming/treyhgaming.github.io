@@ -1,0 +1,18 @@
+body {
+background-color: black;
+font-family: 'Lobster', cursive;
+}
+
+.Trey {
+color: white;
+}
+
+.sidebyside {
+    text-align: center;
+}
+
+.sidebyside2 {
+    display: inline-block;
+    margin: 0 auto;
+    width: 40%;
+}
